@@ -1,6 +1,6 @@
 chrome.contextMenus.create(
     {
-        "title": "Paste lorem ipsum",
+        "title": "Paste 'Lorem ipsum...'",
         "contexts":["editable"],
         "onclick": function(info, tab) 
         {
